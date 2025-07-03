@@ -1,3 +1,5 @@
+// Time Complexity O(n^2)
+// Space complexity O(1)
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
